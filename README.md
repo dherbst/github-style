@@ -166,6 +166,7 @@ pygmentsUseClasses = true
   favicon = "/images/github.png"
   headerIcon = "/images/GitHub-Mark-Light-32px.png"
   avatar = "/images/avatar.png"
+  headerIcon = "/images/GitHub-Mark-Light-32px.png"
   location = "China"
   enableGitalk = true
 
