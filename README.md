@@ -135,6 +135,7 @@ pygmentsUseClasses = true
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
+  userStatusEmoji = "😀"
   favicon = "/images/github.png"
   headerIcon = "/images/GitHub-Mark-Light-32px.png"
   location = "China"
