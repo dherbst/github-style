@@ -98,8 +98,8 @@ add to `config.toml`
 enableGitalk = true
 
   [params.gitalk]
-    clientID = "Your client ID" 
-    clientSecret = "Your client secret" 
+    clientID = "Your client ID"
+    clientSecret = "Your client secret"
     repo = "repo"
     owner = "Your Github username"
     admin = "Your Github username"
@@ -165,12 +165,13 @@ pygmentsUseClasses = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
   headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  avatar = "/images/avatar.png"
   location = "China"
   enableGitalk = true
 
   [params.gitalk]
-    clientID = "Your client ID" 
-    clientSecret = "Your client secret" 
+    clientID = "Your client ID"
+    clientSecret = "Your client secret"
     repo = "repo"
     owner = "MeiK2333"
     admin = "MeiK2333"
